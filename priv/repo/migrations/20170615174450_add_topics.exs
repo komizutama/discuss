@@ -1,4 +1,4 @@
-defmodule Discuss.Repo.Migrations.AddTopics do
+defmodule Discuss.Repo.Migrations.AddTopics 
   use Ecto.Migration
 
   def change do
