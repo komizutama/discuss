@@ -1,3 +1,3 @@
 defmodule Discuss.TopicView do
-  use Discuss.Web, :controller
+  use Discuss.Web, :view
 end
